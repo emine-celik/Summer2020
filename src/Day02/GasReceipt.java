@@ -11,7 +11,7 @@ public class GasReceipt {
         System.out.println("  Price/gallon: $ 2.089");
 
         System.out.println("  Fuel total:   $22.71");
-
+        System.out.println("\"I thing being a programmer is cool\"");
 
 
     }

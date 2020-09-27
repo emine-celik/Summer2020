@@ -9,6 +9,10 @@ public class Variables2 {
 
     */
    public static void main(String[] args) {
+       String name ="hello world";
+
+
+
        char ch1 = 'A';
        char ch2 = 65;
        System.out.println(ch1);

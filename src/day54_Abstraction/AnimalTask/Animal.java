@@ -16,14 +16,12 @@ public abstract class Animal {
         this.age = age;
         this.color = color;
     }
+
     @Override
     public String toString() {
-        return "Cat{" +
+        return "Animal" +
                 "name='" + name + '\'' +
                 ", age=" + age +
-                ", color='" + color + '\'' +
-                '}';
+                ", color='" + color;
     }
-
-
 }

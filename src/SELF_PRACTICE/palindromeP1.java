@@ -1,5 +1,7 @@
 package SELF_PRACTICE;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class palindromeP1 {
 
     public static void main(String[] args) {
@@ -31,5 +33,7 @@ public class palindromeP1 {
        // }
         return str.equalsIgnoreCase(reversestr);
 
+
     }
+
 }

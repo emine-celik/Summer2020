@@ -1,4 +1,4 @@
-package INterviewQuestion;
+package INterviewQuestion.FirstWeek.FirsDay;
 
 import java.util.Arrays;
 

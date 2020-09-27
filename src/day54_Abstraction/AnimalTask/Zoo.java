@@ -10,6 +10,18 @@ public class Zoo {
         System.out.println(cat1);
 
         //Dog dog - new Dog("")
+        System.out.println("===========================");
+
+
+        Dog dog1= new Dog("Blue",1,"Black");
+        dog1.eat();
+        dog1.drink();
+        dog1.play();
+        dog1.jump();
+        System.out.println(dog1);
+
+
+
 
 
 

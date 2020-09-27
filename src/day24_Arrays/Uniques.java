@@ -9,6 +9,7 @@ package day24_Arrays;
 import java.util.Scanner;
 
 public class Uniques {
+
     public static void main(String[] args) {
 
        String str = "aabccd";

@@ -10,6 +10,10 @@ public class Dog extends Animal{
         System.out.println(name+" is playin with balls");
     }
 
+    public void jump(){
+        System.out.println(name + " is jumping");
+    }
+
     @Override
     public void drink() {
         System.out.println(name+" is drinking  wather");
@@ -17,6 +21,14 @@ public class Dog extends Animal{
 
     @Override
     public void eat() {
-        System.out.println(name+" is eating fish");
+        System.out.println(name+" is eating beef");
+    }
+
+    @Override
+    public String toString() {
+        return "Dog " +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", color='" + color ;
     }
 }
